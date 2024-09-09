@@ -1,5 +1,5 @@
 {
-	"name": "angular-xlf-google-translate",
+	"name": "ng-xlf-google-translate",
 	"version": "0.0.1",
 	"description": "",
 	"main": "lib/cli.js",
@@ -15,7 +15,7 @@
 	"author": "Michiel Magendans",
 	"license": "MIT",
 	"bin": {
-		"angular-xlf-google-translate": "lib/cli.js"
+		"ng-xlf-google-translate": "lib/cli.js"
 	},
 	"dependencies": {
 		"@google-cloud/translate": "^8.5.0",
